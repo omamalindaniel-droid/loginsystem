@@ -85,4 +85,5 @@ onAuthStateChanged(auth, async (user) => {
       window.location.href = "index.html";
     }
   }
+
 });
